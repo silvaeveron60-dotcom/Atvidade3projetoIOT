@@ -4,6 +4,6 @@
       Dragon Furby
     </h2>
   <p>
-    <img src="
+    
   </p>
 </html>
